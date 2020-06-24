@@ -3,6 +3,17 @@ Koopen NTNU Noise Measurement Experiment
 
 ![Koopen](https://www.ntnu.no/documents/1271490433/1271491054/Koopen_collage2.png/06321b01-097c-45b7-a388-68872d5de7a9?t=1489418406574)
 
+### Bibtex
+
+```
+@inproceedings{kraemer2019energy,
+  title={Energy-Accuracy Tradeoff for Efficient Noise Monitoring and Prediction in Working Environments},
+  author={Kraemer, Frank Alexander and Alawad, Faiga and Bosch, Ida Marie Vestg{\o}te},
+  booktitle={Proceedings of the 9th International Conference on the Internet of Things},
+  pages={1--8},
+  year={2019}
+}
+```
 <div itemscope itemtype="http://schema.org/Dataset">
   <table>
     <tr>
