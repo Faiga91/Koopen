@@ -14,6 +14,11 @@ Koopen NTNU Noise Measurement Experiment
   year={2019}
 }
 ```
+
+### Dataset Metadata
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+
 <div itemscope itemtype="http://schema.org/Dataset">
   <table>
     <tr>
@@ -29,9 +34,18 @@ Koopen NTNU Noise Measurement Experiment
       <td><code itemprop="description"> KooPen is data of Noise levels in dB  collected as part of a Noise Experiment carried out in NTNU - The Norwegian University of Science and Technology </code></td>
     </tr>
     </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/Faiga91/Koopen</code></td>
+  </tr>
       <tr>
       <td>sameAs</td>
       <td><code itemprop="sameAs">https://github.com/Faiga91/Koopen</code></td>
     </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">https://dl.acm.org/doi/abs/10.1145/3365871.3365885</code></td>
+  </tr>
+  
   </table>
 </div>
