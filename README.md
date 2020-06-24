@@ -10,11 +10,11 @@ Koopen NTNU Noise Measurement Experiment
       <th>Value</th>
     </tr>
     <tr>
-      <td>Vame</td>
+      <td>Name</td>
       <td><code itemprop="name">KooPen dataset</code></td>
     </tr>
       <tr>
-      <td>description</td>
+      <td>Description</td>
       <td><code itemprop="description"> KooPen is data of Noise levels in dB  collected as part of a Noise Experiment carried out in NTNU - The Norwegian University of Science and Technology </code></td>
     </tr>
     </tr>
