@@ -6,16 +6,16 @@ Koopen NTNU Noise Measurement Experiment
 <div itemscope itemtype="http://schema.org/Dataset">
   <table>
     <tr>
-      <th>property</th>
-      <th>value</th>
+      <th>Property</th>
+      <th>Value</th>
     </tr>
     <tr>
-      <td>name</td>
+      <td>Vame</td>
       <td><code itemprop="name">KooPen dataset</code></td>
     </tr>
       <tr>
       <td>description</td>
-      <td><code itemprop="description"> KooPen is Noise level in dB data collected as part of a Noise Experiment carried out in NTNU - The Norwegian University of Science and Technology </code></td>
+      <td><code itemprop="description"> KooPen is data of Noise levels in dB  collected as part of a Noise Experiment carried out in NTNU - The Norwegian University of Science and Technology </code></td>
     </tr>
     </tr>
       <tr>
