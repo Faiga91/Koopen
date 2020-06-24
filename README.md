@@ -11,7 +11,7 @@ Koopen NTNU Noise Measurement Experiment
     </tr>
     <tr>
       <td>Name</td>
-      <td><code itemprop="name">KooPen dataset</code></td>
+      <td><code itemprop="name">KooPen - Indoor noise levels dataset</code></td>
     </tr>
       <tr>
       <td>Description</td>
